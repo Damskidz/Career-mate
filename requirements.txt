@@ -1,0 +1,4 @@
+gradio>=5.49,<6
+Pillow>=10.0
+pdfplumber>=0.11
+pytesseract>=0.3.10
